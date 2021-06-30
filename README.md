@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @KeNaMeR310
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on learing coding 
-- 📫 How to reach me engineer
+i just wanne be happy
 
 <!---
 KeNaMeR310/KeNaMeR310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
