@@ -1,4 +1,4 @@
-i just wanne be happy
+.
 
 <!---
 KeNaMeR310/KeNaMeR310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
